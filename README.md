@@ -43,7 +43,7 @@ python manage.py runserver
 ```
 ## Authors
 
-* **Bishnu** - *Initial work* - [Bishnu Subedi](https://github.com/bishnu-subedi)
+* **Bishnu** - *Initial work* - [Adarsh S Shetty](https://github.com/shettyadarsh/)
 
 
 ## License
